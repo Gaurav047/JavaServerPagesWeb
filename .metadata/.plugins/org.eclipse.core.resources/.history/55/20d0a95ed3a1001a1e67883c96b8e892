@@ -1,0 +1,13 @@
+<html>
+
+<body>
+
+
+Let's have some fun: <%= com.gaurav.jsp.FunUtils.makeItLower("FUN FUN FUN") %>
+
+
+</body>
+
+
+
+</html>

@@ -1,0 +1,20 @@
+<html>
+
+<body>
+
+<jsp:include page="my-header.html" />
+
+Blah Blah Blah ..... <br/><br/>
+Blah Blah Blah ..... <br/><br/>
+Blah Blah Blah ..... <br/><br/>
+Blah Blah Blah ..... <br/><br/>
+Blah Blah Blah ..... <br/><br/>
+Blah Blah Blah ..... <br/><br/>
+
+
+<jsp:inlcude page="my-footer.jsp" />
+
+</body>
+
+
+</html>
